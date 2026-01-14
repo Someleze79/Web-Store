@@ -29,7 +29,25 @@ A full-featured *Web Store application* built with *React* and *Redux*, designed
 
 ## 📂 Project Structure
 
-src/ │ ├── components/ │   ├── ProductCard.js │   ├── Cart.js │   ├── Navbar.js │   └── Checkout.js │ ├── pages/ │   ├── Home.js │   ├── Products.js │   ├── Login.js │   ├── Register.js │   └── CartPage.js │ ├── redux/ │   ├── store.js │   └── cartSlice.js │ ├── App.js └── index.js
+src/
+│
+├── components/
+│   ├── Navbar.js
+│   └── TotalPrice.js
+│
+├── context/
+│   └── TotalPriceContext.js
+│
+├── pages/
+│   ├── Home.js
+│   ├── Products.js
+│   ├── About.js
+│   ├── Login.js
+│   └── Register.js
+│
+├── App.js
+├── index.js
+└── index.css
 
 *(Structure may vary slightly depending on implementation)*
 
