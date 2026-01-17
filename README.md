@@ -23,7 +23,8 @@ A full-featured *Web Store application* built with *React* and *Redux*, designed
 - *Redux / Redux Toolkit* – Application-wide state management  
 - *React Router* – Multi-page navigation  
 - *JavaScript (ES6+)* – Application logic  
-- *Bootstrap / CSS* – Styling and layout  
+- *Bootstrap / CSS* – Styling and layout
+- *HTML* – Application structure
 
 ---
 
